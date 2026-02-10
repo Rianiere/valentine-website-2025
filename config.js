@@ -1,6 +1,6 @@
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
-pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
+valentineName: "Cashmiere"                    // Your Valentine's name
+pageTitle: "Ano kaya ito? 💝" // Browser tab title
 
 // Floating Background Elements
 floatingEmojis: {
@@ -63,7 +63,7 @@ animations: {
 music: {
     enabled: true, // Music feature is enabled
     autoplay: true, // Try to autoplay (note: some browsers may block this)
-    musicUrl: "YOUR_CLOUDINARY_URL_HERE", // Paste your music URL here
+    musicUrl: "https://res.cloudinary.com/dytvc4gga/video/upload/IV_OF_SPADES_-_Come_Inside_Of_My_Heart_Official_Audio_0_rblcw1.mp3", // Paste your music URL here
     startText: "🎵 Play Music", // Button text to start music
     stopText: "🔇 Stop Music", // Button text to stop music
     volume: 0.5 // Volume level (0.0 to 1.0)
